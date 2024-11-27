@@ -20,10 +20,10 @@ Architecture: Client-Server Model
 
 How to Run:-
 Server:
-Compile the Server code: javac Server.java ClientHandler.java
-Start the server: java Server
+Compile the Server code: javac Server.java ClientHandler.java, 
+Start the server: java Server,
 The server will start listening on port 1234 by default.
 Client:
-Compile the Client code: javac Client.java
-Run the client: java Client
+Compile the Client code: javac Client.java,
+Run the client: java Client,
 Enter your username when prompted, and start chatting!
